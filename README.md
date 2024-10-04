@@ -4,6 +4,12 @@
 
 This is a simple Todo List project built with Vue 3 and Vite. The goal of this project is to provide a basic application for adding and removing tasks with categories, where the data is persisted using the browser's `localStorage`.
 
+## Project StructureTechnologies Used
+- Vue 3: A progressive JavaScript framework for building user interfaces.
+- Vite: A fast and optimized build tool for frontend development.
+- CSS: Styles for the application interface.
+- LocalStorage: Used for local storage of task data.
+
 ## Project Structure
 
 ```bash
